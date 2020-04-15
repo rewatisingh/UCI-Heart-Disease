@@ -16,5 +16,3 @@ Attribute information:
 12.number of major vessels (0-3) colored by flourosopy.
 13.thal: 3 = normal; 6 = fixed defect; 7 = reversable defect.
 14.target 1/0.
-Kaggle link: "https://www.kaggle.com/sarthakmaggu/heart-disease-prediction"
-Collaborated with: Sarthak Maggu, gitusername: sarthakmaggu
